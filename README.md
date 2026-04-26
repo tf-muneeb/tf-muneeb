@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋, I'm Muneeb Mustafa</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,20:203a43,100:2c5364&height=220&section=header&text=Welcome!&fontSize=45&fontColor=ffffff"/>
+</p>
+<h1 align="center">Hey, I'm Muneeb Mustafa</h1>
 
 <p align="center">
   🚀 Flutter Developer | 💻 Software Engineer | 📱 App Builder
@@ -133,9 +136,17 @@ Collection of C/C++ programs including patterns, number systems, word search, an
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:muneebmustafa321@gmail.com">📧 Gmail</a> |
-  <a href="https://www.linkedin.com/in/muhammad-muneeb-mustafa-57a503321/">💼 LinkedIn</a> |
-  <a href="https://github.com/tf-muneeb">🐙 GitHub</a>
+  <a href="mailto:muneebmustafa321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/muhammad-muneeb-mustafa-57a503321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/tf-muneeb">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -143,5 +154,6 @@ Collection of C/C++ programs including patterns, number systems, word search, an
 <p align="center">
   💬 <i>"Turning ideas into code, one commit at a time."</i>
 </p>
-
-<h3 align="center">Thanks for visiting! 🚀</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,20:203a43,100:0f2027&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=ffffff"/>
+</p>
