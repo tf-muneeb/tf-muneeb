@@ -1,44 +1,36 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,20:203a43,100:2c5364&height=220&section=header&text=Welcome!&fontSize=45&fontColor=ffffff"/>
-</p>
-<h1 align="center">Hey, I'm Muneeb Mustafa</h1>
-
-<p align="center">
-  🚀 Flutter Developer | 💻 Software Engineer | 📱 App Builder
+  <img width="100%" src="https://raw.githubusercontent.com/tf-muneeb/assets/main/0_readme_banner.png"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Flutter+Developer;Full+Stack+Learner;Building+Real+World+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Real+World+Apps;Clean+UI+%7C+Scalable+Code;Always+Learning" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Software Engineering Student (FAST NUCES 28)
-* 📱 Passionate Flutter Developer
-* ⚡ Exploring Full Stack Development
-* 💡 I love turning ideas into code
-* 🚀 Currently into mobile & web applications
+🎓 Software Engineering Student at FAST NUCES  
+📱 Flutter Developer focused on scalable mobile apps  
+⚡ Exploring full-stack systems & API integrations  
+💡 Passionate about clean UI & efficient architecture  
+🚀 Turning ideas into production-ready applications  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=dart,cpp,java,python,c,js" />
 </p>
 
 ### 🎨 Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,html,css" />
 </p>
 
 ### ⚙️ Tools & Platforms
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,idea,firebase,mysql" />
 </p>
@@ -47,55 +39,61 @@
 
 ## 🚀 Featured Projects
 
-### 📱 Calorie Forge
+### 📱 Calorie Forge  
+![Preview](https://raw.githubusercontent.com/tf-muneeb/assets/main/3_calorie_forge.png)
 
-A premium Flutter calorie tracking app with BMR calculator, workout intensity detection, and real-time macros dashboard.
-🔗 https://github.com/tf-muneeb/Calorie-Forge
-
----
-
-### 📚 Library Manager
-
-Flutter-based library management system with Admin & User panels, book tracking, and clean UI.
-🔗 https://github.com/tf-muneeb/Library-Manager
+Premium calorie tracking app with BMR calculator, workout tracking, and real-time macros dashboard.  
+🔗 https://github.com/tf-muneeb/Calorie-Forge  
 
 ---
 
-### 💰 Expense Tracker
+### ✅ Student Task Manager  
+![Preview](https://raw.githubusercontent.com/tf-muneeb/assets/main/2_student_task_manager.png)
 
-Offline-first expense tracker built with Flutter using Hive for NoSQL storage and Provider for state management.
-🔗 https://github.com/tf-muneeb/Expense-Tracker
-
----
-
-### ✅ Student Task Manager
-
-Task management app with Firebase Auth + Firestore sync and clean UI for productivity.
-🔗 https://github.com/tf-muneeb/Student-Task-Manager
+Task manager with API authentication and Firebase Firestore sync for efficient productivity.  
+🔗 https://github.com/tf-muneeb/Student-Task-Manager  
 
 ---
 
-### 🌦️ Weather App
+### 💰 Expense Tracker  
+![Preview](https://raw.githubusercontent.com/tf-muneeb/assets/main/4_expense_tracker.png)
 
-Flutter weather app using REST API to show real-time conditions, temperature, and hourly forecasts with a clean UI.
-🔗 https://github.com/tf-muneeb/Weather-App
-
----
-
-### 💱 Currency Converter
-
-Cross-platform Flutter app with Cupertino & Material UI, converting currencies in real-time using API integration.
-🔗 https://github.com/tf-muneeb/Currency-Converter
+Offline-first expense tracker using Hive and Provider with interactive charts.  
+🔗 https://github.com/tf-muneeb/Expense-Tracker  
 
 ---
 
-### 🧩 Basic Codes
+### 📚 Library Manager  
+![Preview](https://raw.githubusercontent.com/tf-muneeb/assets/main/1_library_manager.png)
 
-Collection of C/C++ programs including patterns, number systems, word search, and problem-solving logic.
-🔗 https://github.com/tf-muneeb/Basic-Codes
+Flutter-based library system with admin/user panels and book tracking.  
+🔗 https://github.com/tf-muneeb/Library-Manager  
 
 ---
 
+### 🌦️ Weather App  
+![Preview](https://raw.githubusercontent.com/tf-muneeb/assets/main/5_weather_app.png)
+
+Flutter weather app integrating REST API to display real-time conditions and forecasts.  
+🔗 https://github.com/tf-muneeb/Weather-App  
+
+---
+
+### 💱 Currency Converter  
+![Preview](https://raw.githubusercontent.com/tf-muneeb/assets/main/6_currency_converter.png)
+
+Cross-platform Flutter app converting currencies in real-time using API integration.  
+🔗 https://github.com/tf-muneeb/Currency-Converter  
+
+---
+
+## 🚀 Currently Working On
+
+- Advanced Flutter UI/UX  
+- Backend & API integrations  
+- Real-world scalable applications  
+
+---
 
 ## 📊 GitHub Stats
 
@@ -113,22 +111,6 @@ Collection of C/C++ programs including patterns, number systems, word search, an
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tf-muneeb&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tf-muneeb&theme=tokyo-night" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tf-muneeb&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -153,7 +135,4 @@ Collection of C/C++ programs including patterns, number systems, word search, an
 
 <p align="center">
   💬 <i>"Turning ideas into code, one commit at a time."</i>
-</p>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,20:203a43,100:0f2027&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=ffffff"/>
 </p>
